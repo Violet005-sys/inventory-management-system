@@ -1,0 +1,43 @@
+body{
+    width: 100%;
+}
+
+main{
+    width: 100%;
+    padding: 64px;
+    
+}
+
+#maintitle{
+    margin: 24px 0;
+    text-align: center;
+}
+.navbar{
+    
+    width: 90%;
+    
+}
+.displayformbutton{
+    margin: 16px 0;
+}
+
+#new_product{
+    padding: 18px;
+}
+
+
+.restock, .refund {
+    display: none;
+}
+
+.form_section{
+    padding: 24px 0;
+};
+
+.searchnav{
+    margin: 18px 0;
+}
+
+.table_section{
+    margin: 36px 0;
+}
